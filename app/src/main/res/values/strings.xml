@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrReader</string>
+    <string name="request_scan">Scan QRCode</string>
+    <string name="dummy_text">Dummy</string>
+</resources>
